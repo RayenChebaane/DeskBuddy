@@ -7,17 +7,17 @@
 ## At a Glance
 
 <p align="center">
-  <img src="Phase 1: Research & System Definition/GlobalBlockDiagram.jpg" alt="Global Block Diagram" width="700"/>
+  <img src="Phase%201%3A%20Research%20%26%20System%20Definition/GlobalBlockDiagram.jpg" alt="Global Block Diagram" width="700"/>
 </p>
 <p align="center"><em>Global Block Diagram</em></p>
 
 <p align="center">
-  <img src="Phase 1: Research & System Definition/DataFlow.png" alt="Data Flow" width="700"/>
+  <img src="Phase%201%3A%20Research%20%26%20System%20Definition/DataFlow.png" alt="Data Flow" width="700"/>
 </p>
 <p align="center"><em>Data Flow</em></p>
 
 <p align="center">
-  <img src="Phase 1: Research & System Definition/PowerFlow.png" alt="Power Flow" width="700"/>
+  <img src="Phase%201%3A%20Research%20%26%20System%20Definition/PowerFlow.png" alt="Power Flow" width="700"/>
 </p>
 <p align="center"><em>Power Flow</em></p>
 
